@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1431917124 source:c:\users\goat prime.goat\desktop\c++\loot++\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
